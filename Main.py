@@ -1,6 +1,10 @@
 import os
 import random
 
+#try to implement more comments about your methods in order to explain what you are doing in each method. 
+#great usage of variable names 
+#clean code.
+
 
 def get_dirs_and_files(path):
     print(path)
